@@ -17,10 +17,10 @@ Public Class FrmMain
   Dim ReaduFlag As Boolean
   Dim ReleaseFlag As Boolean
 
-  Dim SrvName As String = "BWSERVER"
-  Dim AccName As String = "PRUEBA"
-  Dim UsrName As String = "administrador"
-  Dim Password As String = "Baseware"
+  Dim SrvName As String = ""
+  Dim AccName As String = ""
+  Dim UsrName As String = ""
+  Dim Password As String = ""
 
   Private Sub FrmMain_Load(sender As Object, e As EventArgs) Handles Me.Load
 
