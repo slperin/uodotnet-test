@@ -1,0 +1,15 @@
+D:\VB.NET\TestU2\bin\Debug\TestU2.exe.config
+D:\VB.NET\TestU2\bin\Debug\TestU2.exe
+D:\VB.NET\TestU2\bin\Debug\TestU2.pdb
+D:\VB.NET\TestU2\bin\Debug\TestU2.xml
+D:\VB.NET\TestU2\bin\Debug\UODOTNET.xml
+D:\VB.NET\TestU2\obj\Debug\TestU2.FrmMain.resources
+D:\VB.NET\TestU2\obj\Debug\TestU2.Resources.resources
+D:\VB.NET\TestU2\obj\Debug\TestU2.vbproj.GenerateResource.cache
+D:\VB.NET\TestU2\obj\Debug\TestU2.vbproj.CoreCompileInputs.cache
+D:\VB.NET\TestU2\obj\Debug\TestU2.vbproj.CopyComplete
+D:\VB.NET\TestU2\obj\Debug\TestU2.exe
+D:\VB.NET\TestU2\obj\Debug\TestU2.xml
+D:\VB.NET\TestU2\obj\Debug\TestU2.pdb
+D:\VB.NET\TestU2\obj\Debug\TestU2.vbproj.AssemblyReference.cache
+D:\VB.NET\TestU2\obj\Debug\TestU2.vbproj.SuggestedBindingRedirects.cache
